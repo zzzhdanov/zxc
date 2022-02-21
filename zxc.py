@@ -1,9 +1,4 @@
-from zlib import DEF_BUF_SIZE
-
-
-FileNotFoundErrorsdsfsfsf
-DEF_BUF_SIZEsdf
-
-fsdecodefsf
-s
-sdfsf
+a = 5
+print (a)
+b = 6
+print(b)
